@@ -52,8 +52,6 @@ Note: Make sure the file is executable (chmod +x index.js) if you want to run it
 
 ---
 
----
-
 ## Limitations
 
 - Only fetches the latest 30 public events (GitHub API default).
