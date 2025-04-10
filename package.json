@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "$": "./index.js"
+    "gitivity": "./index.js"
   },
   "type": "commonjs",
   "dependencies": {
